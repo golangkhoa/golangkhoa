@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @golangkhoa. A 12-year-old student from Vietnam.
+- 🌱 I’m currently learning Golang and SQLite.
